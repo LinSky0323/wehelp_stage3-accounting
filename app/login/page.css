@@ -1,0 +1,27 @@
+.container{
+    width:100%;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+    width:600px;
+    margin-top: 50px;
+}
+.form button{
+    width:100px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    border: none;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: 150px;
+    font-size: 25px;
+}
+.form label{
+    font-size: 30px;
+    margin:30px;    
+}
+.form input{
+    font-size: 30px;
+}

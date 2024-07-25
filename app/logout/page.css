@@ -1,0 +1,14 @@
+.container{
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    margin-top: 50px;
+    font-size: 50px;
+    border-radius: 10px;
+    border: none;
+    background-color: antiquewhite;
+    padding: 20px;
+    cursor: pointer;
+}
